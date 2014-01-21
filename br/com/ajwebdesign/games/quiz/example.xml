@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<question text="1)	As metas de um vendedor de sucesso devem ser:" value="100" timelimit="30">
+		<answer multiplier="2">Específicas.</answer>
+		<answer multiplier="1">Viáveis e com prazo.</answer>
+		<answer multiplier="3">Bem definidas e motivadoras.</answer>
+	</question>
+	<question text="2) Para se alcançar um objetivo você deve:" value="100" timelimit="30">
+		<answer multiplier="2">Seguir o planejamento.</answer>
+		<answer multiplier="3">Analisar as etapas e corrigir falhas.</answer>
+		<answer multiplier="1">Ser intuitivo.</answer>
+	</question>
+	<question text="3) Quando eu tenho um objetivo definido a cumprir, eu devo:" value="100" timelimit="30">
+		<answer multiplier="3">Me organizar e canalizar todos os meus esforços nele.</answer>
+		<answer multiplier="2">Criar um planejamento enquanto revejo minhas prioridades.</answer>
+		<answer multiplier="1">Dar a devida importância a ele.</answer>
+	</question>
+	<question text="4) Um vendedor de sucesso tem:" value="100" timelimit="30">
+		<answer multiplier="1">Atividades e tarefas em dia.</answer>
+		<answer multiplier="2">Metas e estratégias.</answer>
+		<answer multiplier="3">Determinação, planejamento e objetivos definidos.</answer>
+	</question>
+	<question text="5) Alcançar um objetivo depende:" value="100" timelimit="30">
+		<answer multiplier="3">Principalmente do meu esforço, dedicação e persistência.</answer>
+		<answer multiplier="2">Do mercado, da época e do planejamento.</answer>
+		<answer multiplier="1">Dos meus clientes.</answer>
+	</question>
+	<question text="6) Para traçar um objetivo é importante:" value="100" timelimit="30">
+		<answer multiplier="1">Ser organizado</answer>
+		<answer multiplier="3">Saber o que quero, alinhar às metas da minha corretora e ser realista.</answer>
+		<answer multiplier="2">Saber o que os clientes querem e ser responsável.</answer>
+	</question>
+	<question text="7) Um objetivo <b>NÃO</b> serve para:" value="100" timelimit="30">
+		<answer multiplier="2">Definir aonde quero chegar.</answer>
+		<answer multiplier="1">Analisar os meus resultados e desempenho.</answer>
+		<answer multiplier="3">Identificar em que estágio estou em minha carreira.</answer>
+	</question>
+	<question text="8) Qual a primeira coisa que devo fazer ao visualizar um objetivo:" value="100" timelimit="30">
+		<answer multiplier="2">Definir prazos.</answer>
+		<answer multiplier="1">Trabalhar duro.</answer>
+		<answer multiplier="3">Traçar uma estratégia.</answer>
+	</question>
+	<question text="9) Ter um objetivo definido é bom porque:" value="100" timelimit="30">
+		<answer multiplier="3">Dá sentido e propósito a tudo o que faço.</answer>
+		<answer multiplier="1">Não perco tempo ou energia com o que não é prioridade.</answer>
+		<answer multiplier="2">Consigo planejar o futuro.</answer>
+	</question>
+	<question text="10) Um bom vendedor:" value="100" timelimit="30">
+		<answer multiplier="2">Sabe se planejar.</answer>
+		<answer multiplier="1">Tem muitos contatos.</answer>
+		<answer multiplier="3">Sabe que quer e o que fazer para atingir seus objetivos.</answer>
+	</question>
+</quiz>

@@ -1,0 +1,1 @@
+Cursors must be 32x32 pixels or smaller.
